@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm vipin kumar</h1>
 <h3 align="center">A passionate Full-Stack Dot Net developer from India</h3>
 
-<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Coder" width="500" height="500" align="right">
+<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Coder" width="400" height="400" align="right">
 
 - 📫 How to reach me **kumarvipin897946@gmail.com**
 
