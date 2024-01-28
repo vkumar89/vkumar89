@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/vkumar89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vkumar89" height="30" width="40" /></a>
 <a href="https://instagram.com/v.kumar_89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="v.kumar_89" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tradingbala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tradingbala" height="30" width="40" /></a>
+<a href="https://www.youtube.com/tradingbala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tradingbala" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vkumar89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vkumar89" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vkumar89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vkumar89" height="30" width="40" /></a>
 
