@@ -108,6 +108,15 @@
   <a href="https://www.hackerrank.com/profile/vkumar89" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=plastic" height="38" alt="hackerrank logo"  />
   </a>
+
+
+
+ <a href="https://auth.geeksforgeeks.org/user/vkumar89/" target="_blank">
+   <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210420155809/gfg-new-logo.png" height="38" alt="GfG logo "color"green" />
+    
+  </a>
+  
+  
 </div>
 
 ###
