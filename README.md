@@ -124,10 +124,51 @@
   
 </div>
 
-###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/vkumar89/vkumar89/output/snake.svg" alt="Snake animation" />
 
-###
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# snk
+
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+   
+
