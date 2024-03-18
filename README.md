@@ -112,7 +112,12 @@
 
 
  <a href="https://auth.geeksforgeeks.org/user/vkumar89/" target="_blank">
-   <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210420155809/gfg-new-logo.png" height="38" alt="GfG logo "color"green" />
+   <img src="https://media.geeksforgeeks.org/wp-content/uploads/20240108174028/Screenshot-2024-01-08-174006.png" height="38" alt="GfG logo "color="green" width="150" />
+    
+  </a>
+
+   <a href="https://leetcode.com/vkumar89/" target="_blank">
+   <img src="https://w7.pngwing.com/pngs/640/947/png-transparent-leetcode-button-icon.png" height="38" alt="GfG logo "color"green" />
     
   </a>
   
